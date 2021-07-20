@@ -2,6 +2,9 @@
 
 - 🔭 I’m currently studying on UESTC
 - 🌱 I’m currently learning WEB
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=zepoch&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
 <!--
 **zEpoch/zEpoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
