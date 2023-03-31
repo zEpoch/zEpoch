@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying on UESTC
+- 🔭 I’m currently studying on UCAS
 - 🔭 A Python Developer
-- 🌱 I’m currently learning WEB
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=zepoch)]()
 
